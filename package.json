@@ -1,0 +1,15 @@
+{
+  "name": "serverless-netlify-fauna",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rzaniboni/serverless-netlify-fauna.git",
+  "author": "Roberto Zaniboni <zaniboni@gmail.com> (http://rzaniboni.github.com)",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "prettier": "1.19.1"
+  }
+}
